@@ -13,6 +13,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-around;
   margin: 1%;
+  height: 50vh;
 }
 
 .current_time {
