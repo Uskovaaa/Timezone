@@ -32,8 +32,8 @@ body {
   width: 49%;
 }
 
-.current_time:nth-child(n+3) {
-  width: 32.333%;
+.current_time:nth-child(n+2) {
+  width: 49%;
 }
 
 .text,
@@ -48,14 +48,14 @@ body {
 .text,
 .title,
 .timeLocation {
-  font-size: 18px;
+  font-size: 3rem;
   font-weight: 700;
 }
 
 .text.big,
 .title.big,
 .timeLocation.big {
-  font-size: 28px;
+  font-size: 6rem;
   font-weight: 700;
 }
 
